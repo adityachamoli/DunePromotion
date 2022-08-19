@@ -1,0 +1,35 @@
+body {
+  background-color: LightGoldenRodYellow;
+  font-size: 135%;
+}
+h2 {
+  font-size: 200%;
+  text-align: center;
+  color: DarkOrange;
+}
+h3 {
+  font-size: 120%;
+  color: Orange;
+}
+img {
+  height: 50%;
+  width: 30%;
+}
+footer {
+  font-size: 130%;
+  text-align: center;
+  color: DarkOrange;
+}
+.img_logo {
+  height: 5%;
+  width: 5%;
+}
+.row {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column {
+  float: left;
+  padding: 5px;
+}

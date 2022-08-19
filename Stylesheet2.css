@@ -1,0 +1,10 @@
+body {
+  background-color: DarkGoldenRod;
+  font-size: 135%;
+}
+img {
+  border-radius: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

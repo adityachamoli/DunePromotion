@@ -1,0 +1,28 @@
+body {
+  background-color: LightGoldenRodYellow;
+  font-size: 135%;
+}
+h2 {
+  font-size: 220%;
+  text-align: center;
+  color: DarkOrange;
+}
+h3 {
+  font-size: 140%;
+  color: Orange;
+}
+footer {
+  font-size: 130%;
+  text-align: center;
+  color: DarkOrange;
+}
+.page_img {
+  border-radius: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main_list {
+  color: DarkOrange;
+  font-size: 140%;
+}
